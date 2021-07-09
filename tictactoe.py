@@ -1,3 +1,4 @@
+########I have run this code in IDLE (python 3.9 64-bit)changes may be required in board design if we run it on another complier######
 import os    
 import time    
     
@@ -57,7 +58,7 @@ def CheckWin():
     else:            
         Game=Running    
     
-print("Tic-Tac-Toe Game Designed By Muniganti Rohini")    
+print("Tic-Tac-Toe Game Designed By MUNIGANTI ROHINI")    
 print("Player 1 [X] --- Player 2 [O]\n")    
 print()    
 print()    
